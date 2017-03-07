@@ -1,0 +1,7 @@
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\bin\Debug\DBObject.dll.config
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\bin\Debug\DBObject.dll
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\bin\Debug\DBObject.pdb
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\bin\Debug\MySql.Data.dll
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\obj\Debug\DBObject.csprojResolveAssemblyReference.cache
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\obj\Debug\DBObject.dll
+C:\WORK\Projects\CaptivePortal_James\CP-API\CaptivePortal.API\DBObject\obj\Debug\DBObject.pdb
